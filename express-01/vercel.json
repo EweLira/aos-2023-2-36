@@ -1,6 +1,5 @@
 {
     "version": 2,
-    "name": "Festival-server",
     "builds": [
        { "src": "index.js", "use": "@vercel/node" }
     ],
